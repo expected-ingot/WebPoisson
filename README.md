@@ -1,5 +1,5 @@
 # WebPoisson
-Hopefully a working Webfishing dedicated server. It can currently host a server, which partially works. You can't see people ingame or chat messages and events. This might change though.
+Hopefully a working Webfishing dedicated server. It can currently host a server, which partially works. You can't see people ingame or chat messages and events. This might change though. This is mostly a personal project, but contributions are very welcome!
 
 ## How do I use this?
 Clone the repo and compile. Then, go download the Steamworks SDK 1.57. Then drag and drop your platform's redistributable steam_api DLL into the same directory as the compiled program. And also put in a file called `steam_appid.txt` with `3146520` inside without any newlines or spaces. And it should be good to go.
